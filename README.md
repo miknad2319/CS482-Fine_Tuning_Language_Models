@@ -4,8 +4,7 @@ I elected to use an Anaconda Virtual Environment, although that decision will li
 
 If you don't have Anaconda installed you can download it from here: https://docs.anaconda.com/anaconda/install/index.html
 
-With Anaconda installed, we then make a new conda environment using the command:
-<conda create --name your_env_name>
+With Anaconda installed, we then make a new conda environment using the command "conda create --name your_env_name"
 
 https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
@@ -15,12 +14,12 @@ We then intall the following packages:
    
 -----Transformers
   
-I already have PyTorch installed, but to download PyTorch into your conda virtual environment activate your 
-virtual environment using the command <conda activate your_env_name>
+I already have PyTorch installed, but to download PyTorch into your Conda virtual environment activate your 
+virtual environment using the command "conda activate your_env_name"
 
-then run the command <conda install pytorch torchvision torchaudio -c pytorch>
+then run the command "conda install pytorch torchvision torchaudio -c pytorch"
 
-For Transformers you can use the command <conda install -c conda-forge transformers> (REMEMBER TO
+For Transformers you can use the command "conda install -c conda-forge transformers" (REMEMBER TO
 INSTALL PACKAGES IN YOUR VIRTUAL ENVIRONMENT ONLY)
 
 I did not have Transformers installed yet, so below is a screenshot of me downloading and installing
