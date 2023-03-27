@@ -16,9 +16,13 @@ We then intall the following packages:
   
 I already have PyTorch installed, but to download PyTorch into your conda virtual environment,
 
-activate your virtual environment using the command <conda activate your_env_name>,
+activate your virtual environment using the command:
+   
+   <conda activate your_env_name>
 
-then run the command <conda install pytorch torchvision torchaudio -c pytorch>
+then run the command:
+   
+      <conda install pytorch torchvision torchaudio -c pytorch>
 
 For Transformers you can use the command <conda install -c conda-forge transformers> (REMEMBER TO
 INSTALL PACKAGES IN YOUR VIRTUAL ENVIRONMENT ONLY)
