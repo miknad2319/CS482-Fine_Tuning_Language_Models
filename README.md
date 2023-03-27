@@ -8,11 +8,11 @@ With Anaconda installed, we then make a new conda environment using the command 
 
 https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
-We then intall the following packages:
+We then intall the following packages:  
 
-  PyTorch
+-----PyTorch
    
-  Transformers
+-----Transformers
   
 I already have PyTorch installed, but to download PyTorch into your conda virtual environment,
 
