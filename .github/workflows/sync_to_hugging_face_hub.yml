@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://miknad2319:$HF_TOKEN@huggingface.co/spaces/HF_USERNAME/miknad2319/CS485-Milestone-2 main
+        run: git push --force https://miknad2319:$HF_TOKEN@huggingface.co/spaces/HF_USERNAME/miknad2319/CS485-Milestone-2 main
