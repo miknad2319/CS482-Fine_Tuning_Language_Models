@@ -1,3 +1,14 @@
+---
+title: CS485 Milestone 2
+emoji: 🏢
+colorFrom: red
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.17.0
+app_file: test-app.py
+pinned: false
+---
+
 # CS482-Fine_Tuning_Language_Models
 
 I elected to use an Anaconda Virtual Environment, although that decision will likely change in the near future.
