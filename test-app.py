@@ -1,4 +1,5 @@
 import streamlit as st
+import torch as nn
 import requests
 from transformers import pipeline
 
