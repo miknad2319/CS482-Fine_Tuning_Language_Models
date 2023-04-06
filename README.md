@@ -11,6 +11,10 @@ pinned: false
 
 # CS482-Fine_Tuning_Language_Models
 
+Second Milestone linked below:
+
+https://huggingface.co/spaces/miknad2319/CS485-Milestone-2
+
 I elected to use an Anaconda Virtual Environment, although that decision will likely change in the near future.
 
 If you don't have Anaconda installed you can download it from here: https://docs.anaconda.com/anaconda/install/index.html
